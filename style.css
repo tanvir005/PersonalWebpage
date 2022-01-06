@@ -45,17 +45,25 @@ p{
     text-shadow: 5px 5px 10px rgb(231, 184, 184);
 }
 
+.my-mission{
+    background-image: url(images/shapes/dotdot.png);
+    background-repeat: no-repeat;
+    background-position: bottom 0px right 00px;
+    background-size: 10%;
+}
+
 .mission-items{
-    width: 30%;
+    width: 80%;
     background-color: rgb(211, 234, 235);
     border-radius: 30px;
-    margin: 2%;
+    margin: 1%;
     padding-left: 3%;
     padding-right: 3%;
     box-shadow: 5px 5px 10px rgb(243, 239, 239);
 }
 .mission-items img{
-    width: 30%;
+    width: 50%;
+    margin: 0;
     
 }
 #mi-2{
@@ -63,4 +71,7 @@ p{
 }
 #mi-3{
   background-color: rgb(248, 202, 234);
+}
+.mi{
+    padding: 10%;
 }
