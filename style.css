@@ -7,11 +7,12 @@ body{
 h1{
     font-weight: 900;
     font-size: 50px;
-    font-family: 'Mochiy Pop One', sans-serif;
     padding-left: 15px ;
 }
 p{
     text-align: justify;
+    padding-bottom: 3%;
+    padding-top: 3%;
 }
 
 .half-width{
@@ -30,9 +31,36 @@ p{
     text-decoration: none;
     padding: 1% 2%;
     border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(231, 184, 184);
 }
 .heading{
-    border-left: orange solid 10px;
+    border-left: orange  solid 10px;
     border-radius: 5px;
+    font-family: 'Mochiy Pop One', sans-serif;
+    text-shadow: 5px 5px 10px rgb(233, 220, 220);    
+}
+.center-heading{
+    text-align: center;
+    font-weight: 900;
+    text-shadow: 5px 5px 10px rgb(231, 184, 184);
+}
+
+.mission-items{
+    width: 30%;
+    background-color: rgb(211, 234, 235);
+    border-radius: 30px;
+    margin: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    box-shadow: 5px 5px 10px rgb(243, 239, 239);
+}
+.mission-items img{
+    width: 30%;
     
+}
+#mi-2{
+  background-color: rgb(241, 233, 233);
+}
+#mi-3{
+  background-color: rgb(248, 202, 234);
 }
