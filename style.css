@@ -8,6 +8,7 @@ h1{
     font-weight: 900;
     font-size: 50px;
     font-family: 'Mochiy Pop One', sans-serif;
+    padding-left: 15px ;
 }
 p{
     text-align: justify;
@@ -29,4 +30,9 @@ p{
     text-decoration: none;
     padding: 1% 2%;
     border-radius: 5px;
+}
+.heading{
+    border-left: orange solid 10px;
+    border-radius: 5px;
+    
 }
