@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.h1-color{
+    color: orangered;
+}
+h1{
+    font-weight: 900;
+    font-size: 50px;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+p{
+    text-align: justify;
+}
+
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.frist-sec{
+    display: flex;
+}
+.opening-newpage{
+    background-image: linear-gradient(orange, orangered);
+    color: white;
+    text-decoration: none;
+    padding: 1% 2%;
+    border-radius: 5px;
+}
